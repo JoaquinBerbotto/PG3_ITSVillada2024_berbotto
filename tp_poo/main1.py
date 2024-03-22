@@ -11,10 +11,8 @@ class Persona:
 persona1 = Persona()
 persona2 = Persona()
 
-# Inicializar los nombres de las personas
 persona1.inici_nombre("Juan")
 persona2.inici_nombre("María")
 
-# Mostrar los nombres de las personas
 persona1.mostrar_nombre()
 persona2.mostrar_nombre()
