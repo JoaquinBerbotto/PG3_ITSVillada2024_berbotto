@@ -10,7 +10,7 @@ class mates:
     def resta(self):
         return self.num1 - self.num2
 
-    def multiplicacion(self):
+    def multi(self):
         return self.num1 * self.num2
 
     def division(self):
@@ -22,7 +22,7 @@ class mates:
     def matear(self):
         print("Suma:", self.suma())
         print("Resta:", self.resta())
-        print("Multiplicación:", self.multiplicacion())
+        print("Multiplicación:", self.multi())
         print("División:", self.division())
 
 
