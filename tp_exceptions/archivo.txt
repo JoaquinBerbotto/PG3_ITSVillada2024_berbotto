@@ -1,0 +1,7 @@
+Hola
+amigazo,esto
+es
+una
+serie
+de
+strings
